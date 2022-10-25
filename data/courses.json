@@ -1,34 +1,26 @@
 [
     {
       "id": "01",
-      "name": "Breaking News"
+      "name": "Biomechanics"
     },
     {
       "id": "02",
-      "name": "Regular News"
+      "name": "Design and Manufacturing"
     },
     {
       "id": "03",
-      "name": "International News"
+      "name": "Aerodynamics and Fluid Mechanics"
     },
     {
       "id": "04",
-      "name": "Sports"
+      "name": "Dynamics and Control"
     },
     {
       "id": "05",
-      "name": "Entertainment"
+      "name": "Combustion and Energy Systems"
     },
     {
       "id": "06",
-      "name": "Culture"
-    },
-    {
-      "id": "07",
-      "name": "Arts"
-    },
-    {
-      "id": "08",
-      "name": "All News"
+      "name": "Materials and Structures"
     }
   ]

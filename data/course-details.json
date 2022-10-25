@@ -1,0 +1,47 @@
+[
+    {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+    "category_id": "01",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_enroll": 488,
+    "department": "Mechanical Engineering",
+    "title": "Biomechanics",
+    "author": {
+      "name": "Jimmy Dane",
+      "starting_date": "2023-12-01 11:00:00",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "image_url": "https://images.squarespace-cdn.com/content/v1/54e34092e4b043f1c9a46c60/1440371725649-HQBXZ44USZ92N2UZU24L/image-asset.jpeg",
+    "details": "The biomechanics biomaterials and biological materials groups cover a wide range of research topics from cardiovascular engineering (Mongrain), voice production (Mongeau), bio-devices (Liu), mechanics of biological materials and bio-inspiration and musculoskeletal biomechanics with a focus on spine (Driscoll). Current research projects involve the design of new vascular stents and catheters; structural and multi-objective optimization of stent-like cages for rotating catheter protection; characterization of biological tissue; models of voice production; design, construction and evaluation of implants for vocal fold alteration and reconstruction; numerical simulations of laryngeal flows (CFD); deformation and fracture of bone, teeth, seashells and fish scales as inspiration for new material designs, bio-inspired composites, glass and ceramics for applications in bioengineering, touchscreens, impact-proof windows and protective systems. Our primary facility is the Biomechanics Laboratory in the Macdonald Engineering Building of the downtown McGill campus. The laboratory houses a PIV system from TSI, a rheometer from Bohlin, a pulsatile pump from Harvard Apparatus, a Bio-Pump from Medtronic, roller pumps from Masterflex, ELF3200 mechanical tester for soft tissues from Enduratec, high-precision pressure gages, EMF flow meters, and various modeling software (Fidap, Matlab, Labview, Ansys, Pro-E, ICEM, Femlab). Facilities involved with voice production contain a Dantec time-resolved PIV system, a Dantec hot-wire anemometry system, one Dantec LDA, one Varian gas chromatograph, one Agilent VXI data acquisition system, one Polytec LDV system with both standard and fiber optic heads, one B&K sound level meter, microphones, accelerometers, pressure and flow transducers, computers, and software (Abaqus, Fluent, Comsol, Power Flow, Solid Works). The characterization of the structure, properties and mechanics of a variety of biological materials is performed with a suite of loading stages with in-situ imaging capabilities. Research funding is primarily contributed by the federal and provincial governments through CIHR, NSERC, CFI, NIH, FRSQ and FRQNT and industrial partners, such as Medtronic, Baylis Medical, Coroneo Medical and Opsens Inc."
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2bb6b",
+    "category_id": "02",
+    "rating": { "number": 4.8, "badge": "Excellent" },
+    "total_enroll": 658,
+    "department": "Mechanical Engineering",
+    "title": "Design and Manufacturing",
+    "author": {
+      "name": "Jennifer Wood",
+      "starting_date": "2023-12-01 11:00:00",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "image_url": "https://www.einfochips.com/blog/wp-content/uploads/2015/09/Top-10-Contributing-Factors-to-Design-for-Manufacturability.jpg",
+    "details": "Several research groups and laboratories at McGill University focus on mechanical design, manufacturing and process management. The mechanical design groups develop integrated design methods that encompass computational synthesis, multi-scale analysis and selection strategies, and they search for particular applications and industrial sectors. Research topics range from optimum design methodology to biomimetic design. The former involves multi-objective and multidisciplinary optimization. The latter is applied to structures and hybrid materials (i.e., cellular solids and composite materials) and biomedical devices (i.e., stents and heart valves, robotic mechanical systems and their mechanical components). The manufacturing and process management researchers focus on various manufacturing processes that occur at the large and micro scale. These include comminution processes, high-speed grinding, laser assisted machining, metal coating, and micro-machining. Current research projects analyze the effects of wear, fretting and abrasion as well as other thermoelastic and dynamic phenomena. Research also includes the improvement of productivity and cycle time for manufacturing activities, with special emphasis on production planning, concurrent engineering, design with remote partners, and change management."
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2cc6c",
+    "category_id": "03",
+    "rating": { "number": 4.7, "badge": "Excellent" },
+    "total_enroll": 610,
+    "department": "Mechanical Engineering",
+    "title": "Aerodynamics and Fluid Mechanics",
+    "author": {
+      "name": "Presstv",
+      "starting_date": "2023-12-10 11:00:00",
+      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    "image_url": "https://www.totalassignment.com/uploads/Fluid-Mechanics-Assignment-Help.jpg",
+    "details": "The Aerodynamics, Fluids, and Thermal Engineering research groups and laboratories investigate a wide variety of research topics in the field of Fluid Mechanics. Current research projects include boundary layer control, development of computational algorithms for the design and analysis of aerospace vehicles, the study of differential diffusion in a turbulent jet, unsteady aerodynamic studies on wings and airfoils in subsonic and supersonic flows with applications to aero-elastic oscillations control, studies on the next-generation hypersonic air-breathing engines, computational and numerical investigations of compact heat exchangers, and the study of wing tip vortices from fixed and cyclically pitched wings. Facilities include the J. Armand Bombardier 3ft x 4ft Low-Turbulence Subsonic Wind Tunnel at the Aerodynamics Lab, which is being primarily used for the investigation of aircraft wingtip vortices as well as rotorcraft blade-vortex interaction. The lab employs laser/optics flow measurement equipment and multiple hot-film sensor array as well as PIV flow measurement equipment. A state-of-the-art heat transfer lab investigates fluid flow and heat transfer in engineering systems for energy conversion, exchange, and storage. Researchers have access to the McGill High Performance Computing (HPC) centre, which operates one of the most advanced computing and data management facilities in Canada and the world. McGill HPC is equipped with 21000 processing cores with both graphical processing units and Intel Phi accelerators and provides extensive data storage, cloud-computing services, and advanced technical support and HPC consulting to McGill researchers. Research funding is primarily contributed by the federal and provincial governments through NSERC, CFI and FQRNT as well as by industrial partners, such as Bombardier, Pratt & Whitney, Bell Helicopter and a large number of private companies."
+  }
+]
